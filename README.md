@@ -3,3 +3,4 @@ The Cloud-Server project is a mini PC that allows users to implement their own p
 
 It is also possible to develop small webservices for the cloud.
 Here I provide all necessary documentation for the manufacture and assembly of PCBs and also all SolidWorks drawings of the case.
+The project is completely open and will bear much fruit, especially as it is low-cost.
