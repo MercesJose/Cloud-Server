@@ -6,6 +6,7 @@ Here I provide all necessary documentation for the manufacture and assembly of P
 The project is completely open and will bear much fruit, especially as it is low-cost.
 
  Downloads:
+ 
 https://www.raspberrypi.org/downloads...
 
 https://www.balena.io/etcher/
