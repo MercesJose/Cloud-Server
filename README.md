@@ -5,7 +5,7 @@ It is also possible to develop small webservices for the cloud.
 Here I provide all necessary documentation for the manufacture and assembly of PCBs and also all SolidWorks drawings of the case.
 The project is completely open and will bear much fruit, especially as it is low-cost.
 
- Downloads:
+ Initial downloads:
  
 https://www.raspberrypi.org/downloads...
 
